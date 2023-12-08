@@ -39,6 +39,4 @@ Desenvolvido por Regy Felipe em 2023.
 
 Você pode contribuir abrindo problemas, enviando solicitações de pull, etc. Veja nosso guia de contribuição para mais detalhes.
 
-### 📝 Licença
 
-Este projeto está sob a licença [Nome da Licença]. Veja o arquivo LICENSE.md para mais detalhes.
