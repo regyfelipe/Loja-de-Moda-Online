@@ -1,6 +1,6 @@
 # Meteora - Loja de Moda Online
 
-![Meteora Logo](.assets\logo-meteora.png)
+![Meteora Logo](assets/logo-meteora.png)
 
 ## 🌟 Visão Geral
 
