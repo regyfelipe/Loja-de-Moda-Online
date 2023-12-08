@@ -39,4 +39,8 @@ Desenvolvido por Regy Felipe em 2023.
 
 Você pode contribuir abrindo problemas, enviando solicitações de pull, etc. Veja nosso guia de contribuição para mais detalhes.
 
+---
 
+[![Meteora Logo](preview.png)](https://regyfelipe.github.io/Loja-de-Moda-Online/)
+
+Clique na imagem acima para visitar o site.
